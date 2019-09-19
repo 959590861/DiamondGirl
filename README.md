@@ -27,10 +27,6 @@
                     <h5 class="text-center">愿你时光清新如夏，愿你岁月安好不容倾塌</h5>
                     <h5 class="text-center">愿你今后得之皆所想，所想皆已得</h5>
                     <h5 class="text-center">愿你所愿，终能实现</h5>
-                    <!-- <h5 class="text-center">愿你去往之地皆为热土，愿你所遇之人皆为挚友。</h5> -->
-                    
-                    <!-- <h5 class="text-center">相见亦无事，别后常忆君。</h5> -->
-                    
                     <h5 class="text-center">生日快乐！</h5>
                     <h5 class="text-center">
                             <span class="img-content">
