@@ -40,8 +40,3 @@
             <div class="swiper-slide">slider3</div>
         </div>
     </div>
-<script> 
-var mySwiper = new Swiper('.swiper-container', {
-    autoplay: 5000,
-})
-</script>
