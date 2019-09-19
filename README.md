@@ -13,6 +13,4 @@
     .small-img{width:40px;height:40px;position:absolute;top:-15px;left: -40px;}
     .pull-left{float:left;}
 </style>
-    <div class="swiper-container">
-        
-    </div>
+    <div class="swiper-container"></div>
