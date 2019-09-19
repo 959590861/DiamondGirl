@@ -36,8 +36,7 @@
                     </h5>
                 </div>
             </div>
-            <div class="swiper-slide">
-            </div>
+            <div class="swiper-slide"></div>
             <div class="swiper-slide">slider3</div>
         </div>
     </div>
